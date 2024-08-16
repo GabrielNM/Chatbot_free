@@ -23,8 +23,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-qwen2.git
-   cd chatbot-qwen2
+   git clone https://github.com/GabrielNM/Chatbot_free.git
+   cd Chatbot_free
 
 ## Contributing
 Contributions are welcome! Feel free to submit a Pull Request or open an Issue for any improvements or suggestions.
